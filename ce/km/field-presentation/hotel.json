@@ -185,9 +185,6 @@
         },
         {
           "id": "gmbLinkedAccount"
-        },
-        {
-          "id": "yelpLinkedAccount"
         }
       ]
     },
@@ -1318,6 +1315,9 @@
           "localeCode": "fr",
           "value": "Assistant Knowledge"
         }
+      ],
+      "entryType": "SECTION",
+      "fields": [
       ]
     }
   ]
