@@ -644,13 +644,7 @@
           "id": "primaryConversationContact"
         },
         {
-          "id": "holidayHoursConversationEnabled"
-        },
-        {
           "id": "reviewResponseConversationEnabled"
-        },
-        {
-          "id": "nudgeEnabled"
         }
       ]
     }
