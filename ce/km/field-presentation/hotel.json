@@ -188,9 +188,6 @@
         },
         {
           "id": "yelpLinkedAccount"
-        },
-        {
-          "id": "trustpilotLinkedAccount"
         }
       ]
     },
@@ -1320,12 +1317,6 @@
         {
           "localeCode": "fr",
           "value": "Assistant Knowledge"
-        }
-      ],
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "reviewResponseConversationEnabled"
         }
       ]
     }
