@@ -1329,9 +1329,6 @@
         },
         {
           "id": "reviewResponseConversationEnabled"
-        },
-        {
-          "id": "nudgeEnabled"
         }
       ]
     }
