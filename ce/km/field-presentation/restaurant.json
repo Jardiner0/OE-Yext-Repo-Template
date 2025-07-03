@@ -602,9 +602,6 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "primaryConversationContact"
-        },
-        {
           "id": "reviewResponseConversationEnabled"
         }
       ]
