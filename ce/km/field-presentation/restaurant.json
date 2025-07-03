@@ -606,9 +606,6 @@
         },
         {
           "id": "reviewResponseConversationEnabled"
-        },
-        {
-          "id": "nudgeEnabled"
         }
       ]
     }
