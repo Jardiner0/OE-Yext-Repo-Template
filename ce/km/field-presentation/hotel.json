@@ -6,22 +6,10 @@
   "presentationEntries": [
     {
       "displayName": "Content",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Contenu"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Core Information",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Informations principales"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -75,12 +63,6 @@
     },
     {
       "displayName": "Business Details",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Détails de l\u0027entreprise"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -114,12 +96,6 @@
     },
     {
       "displayName": "Property Details",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Informations sur la propriété"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -141,22 +117,10 @@
     },
     {
       "displayName": "Contact, Websites and Apps",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Contacts, sites Internet et applications"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "displayName": "Media",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Médias"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -172,12 +136,6 @@
     },
     {
       "displayName": "Linked Accounts",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Comptes liés"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -190,12 +148,6 @@
     },
     {
       "displayName": "Social Media",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Réseaux sociaux"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -224,22 +176,10 @@
     {
       "defaultCollapsed": true,
       "displayName": "Enhanced Content Lists",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Listes de contenu optimisées"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "displayName": "Additional Hours Information",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Infos complémentaires sur les horaires"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -259,43 +199,19 @@
     {
       "defaultCollapsed": true,
       "displayName": "Additional Attributes",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Caractéristiques supplémentaires"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Landing Pages",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Landing pages"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "displayName": "Amenities",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Équipements"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Activities",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "menées"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -347,12 +263,6 @@
     },
     {
       "displayName": "Business",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Entreprise"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -365,12 +275,6 @@
     },
     {
       "displayName": "Connectivity",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Connectivité"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -383,12 +287,6 @@
     },
     {
       "displayName": "Food and Drink",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Plats et boissons"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -428,12 +326,6 @@
     },
     {
       "displayName": "Pools",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Piscines"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -482,12 +374,6 @@
     },
     {
       "displayName": "Room Service",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Service en chambre"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -542,12 +428,6 @@
     },
     {
       "displayName": "Wellness",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Bien-être"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -584,22 +464,10 @@
     },
     {
       "displayName": "Logistics",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Logistique"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Accessibility",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Accessibilité"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -612,12 +480,6 @@
     },
     {
       "displayName": "Families",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Familles"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -654,12 +516,6 @@
     },
     {
       "displayName": "Transportation",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Transports"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -681,22 +537,10 @@
     },
     {
       "displayName": "Policies",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Politiques"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Pets",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Animaux de compagnie"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -712,12 +556,6 @@
     },
     {
       "displayName": "Policies",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Politiques"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -748,22 +586,10 @@
     },
     {
       "displayName": "Health and Safety",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Santé et sécurité"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Enhanced Cleaning",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Nettoyage en profondeur"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -788,12 +614,6 @@
     },
     {
       "displayName": "Increased Food Safety",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Sécurité alimentaire accrue"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -815,12 +635,6 @@
     },
     {
       "displayName": "Minimised Contact",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Contact limité au maximum"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -848,12 +662,6 @@
     },
     {
       "displayName": "Personal Protection",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Protection individuelle"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -872,12 +680,6 @@
     },
     {
       "displayName": "Physical Distancing",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Distanciation physique"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -899,22 +701,10 @@
     },
     {
       "displayName": "Sustainability",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Durabilité"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Energy Efficiency",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Efficacité énergétique"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -939,12 +729,6 @@
     },
     {
       "displayName": "Water Conservation",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Conservation de l\u0027eau"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -969,12 +753,6 @@
     },
     {
       "displayName": "Waste Management",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Gestion des déchets"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1029,12 +807,6 @@
     },
     {
       "displayName": "Sustainable Sourcing",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Approvisionnement durable"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1053,12 +825,6 @@
     },
     {
       "displayName": "Sustainability Certifications",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Certifications en développement durable"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1074,23 +840,11 @@
     },
     {
       "displayName": "Publisher Specific",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Spécifique à l\u0027annuaire"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Google Business Profile Fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Champs de fiche d\u0027établissement Google"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1125,23 +879,11 @@
     {
       "defaultCollapsed": true,
       "displayName": "Google Business Profile Attributes",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Caractéristiques Google Business Profile"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Apple Fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Champs Apple"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1164,12 +906,6 @@
     {
       "defaultCollapsed": true,
       "displayName": "Bing Fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Champs Bing"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1194,23 +930,11 @@
     },
     {
       "displayName": "Other",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Autre"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Internal Use Only",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Usage interne uniquement"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1242,12 +966,6 @@
     {
       "defaultCollapsed": true,
       "displayName": "Other fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "autres domaines"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -1299,23 +1017,11 @@
     },
     {
       "displayName": "Settings",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Paramètres"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Knowledge Assistant",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Assistant Knowledge"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
       ]
