@@ -6,22 +6,10 @@
   "presentationEntries": [
     {
       "displayName": "Content",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Contenu"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "displayName": "Core Information",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Informations principales"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -78,12 +66,6 @@
     },
     {
       "displayName": "Business Details",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Détails de l\u0027entreprise"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -153,22 +135,10 @@
     },
     {
       "displayName": "Contact, Websites and Apps",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Contacts, sites Internet et applications"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "displayName": "Media",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Médias"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -184,12 +154,6 @@
     },
     {
       "displayName": "Linked Accounts",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Comptes liés"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -203,12 +167,6 @@
     {
       "defaultCollapsed": true,
       "displayName": "Social Media",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Réseaux sociaux"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -237,55 +195,25 @@
     {
       "defaultCollapsed": true,
       "displayName": "Enhanced Content Lists",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Listes de contenu optimisées"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Additional Attributes",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Caractéristiques supplémentaires"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Landing Pages",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Landing pages"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "displayName": "Additional Hours",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Horaires supplémentaires"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Food and Drink",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Plats et boissons"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -305,12 +233,6 @@
     {
       "defaultCollapsed": true,
       "displayName": "Takeaway and Delivery",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Vendre, emporter et livraison"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -324,12 +246,6 @@
     {
       "defaultCollapsed": true,
       "displayName": "Order Pickup",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Retrait des commandes"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -343,12 +259,6 @@
     {
       "defaultCollapsed": true,
       "displayName": "Accessibility",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Accessibilité"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -364,23 +274,11 @@
     },
     {
       "displayName": "Publisher Specific",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Spécifique à l\u0027annuaire"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Google Business Profile Fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Champs de fiche d\u0027établissement Google"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -415,23 +313,11 @@
     {
       "defaultCollapsed": true,
       "displayName": "Google Business Profile Attributes",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Caractéristiques Google Business Profile"
-        }
-      ],
       "entryType": "SECTION"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Apple Fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Champs Apple"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -454,12 +340,6 @@
     {
       "defaultCollapsed": true,
       "displayName": "Bing Fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Champs Bing"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -484,23 +364,11 @@
     },
     {
       "displayName": "Other",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Autre"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Internal Use Only",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Usage interne uniquement"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -531,12 +399,6 @@
     },
     {
       "displayName": "Other fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "autres domaines"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
         {
@@ -576,23 +438,11 @@
     },
     {
       "displayName": "Settings",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Paramètres"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
       "defaultCollapsed": true,
       "displayName": "Knowledge Assistant",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Assistant Knowledge"
-        }
-      ],
       "entryType": "SECTION",
       "fields": [
       ]
