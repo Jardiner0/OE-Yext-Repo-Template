@@ -6,12 +6,6 @@
   "presentationEntries": [
     {
       "displayName": "Content",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Contenu"
-        }
-      ],
       "entryType": "DIVIDER"
     },
     {
