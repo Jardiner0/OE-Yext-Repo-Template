@@ -160,6 +160,12 @@
           "id": "facebookLinkedAccount"
         },
         {
+          "id": "linkedinLinkedAccount"
+        },
+        {
+          "id": "TrustpilotLinkedAccount"
+        },    
+        {
           "id": "gmbLinkedAccount"
         }
       ]
