@@ -146,6 +146,9 @@
         },
         {
           "id": "gmbLinkedAccount"
+        },
+        {
+          "id": "trustpilotLinkedAccount"
         }
       ]
     },
